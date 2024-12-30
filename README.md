@@ -1,3 +1,7 @@
-Mochammad Jibril Repository
+# Mochammad Jibril Alfathar
 
-Tugas Praktikum 8 (github)
+**Praktikum8 (Github)**
+**Praktikum8 (Github)**
+**Praktikum8 (Github)**
+
+**Kegiatan**: Saya sedang belajar Git dan Github.
